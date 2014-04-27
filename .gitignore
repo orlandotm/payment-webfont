@@ -1,3 +1,5 @@
 .buildpath
 .project
 .settings/org.eclipse.php.core.prefs
+.DS_store
+demo/.DS_store
