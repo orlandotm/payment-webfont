@@ -8,6 +8,6 @@ All trademarks are the property of their respective owners; third-party brands, 
 Included Glyphs
 ===============
 
-![alt text](https://github.com/orlandotm/payment-webfont/master/preview.jpg "Included Glyphs")
+![alt text](https://raw.githubusercontent.com/orlandotm/payment-webfont/master/preview.jpg "Included Glyphs")
 
 Mastercard, Maestro, Visa, Visa Electron, American Express, Postepay, Cartasì, Diners, Discover, Union Pay, Electronic Cash, TrustE, Amazon, JCB, Google Wallet, Stripe, Square, ogone, VeriSign
