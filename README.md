@@ -1,7 +1,9 @@
 payment-webfont
 ===============
 
-A payment icon web font featuring 15 glyphs, ready to roll or freely customize for your needs. Generated with Icomoon.io
+An SVG webfont full of icons of main payment systems created by @orlandotm with Icomoon.io
+
+All trademarks are the property of their respective owners; third-party brands, product names, trade names, corporate names and companies mentioned herein may be the trademarks of their respective owners or registered trademarks of other companies and have been used for purposes of explanation and to the owner's benefit, without implying a violation of copyright law.
 
 
 Included Glyphs
