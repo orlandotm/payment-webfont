@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'payment-webfont\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'pw-mastercard': '&#xe602;',
 		'pw-trust-e': '&#xe612;',
 		'pw-amazon': '&#xe613;',
 		'pw-jcb': '&#xe610;',
@@ -26,7 +27,6 @@
 		'pw-american-express': '&#xe607;',
 		'pw-paypal': '&#xe604;',
 		'pw-maestro': '&#xe605;',
-		'pw-mastercard': '&#xe602;',
 		'pw-visa': '&#xe601;',
 		'pw-visa-electron': '&#xe606;',
 		'pw-postepay': '&#xe608;',
