@@ -43,7 +43,7 @@ To install with composer add `orlandotm/payment-webfont` to your `composer.json`
 ```
 {
   "require": {
-    "orlandotm/payment-webfont": "* "
+    "orlandotm/payment-webfont": "*"
   }
 }
 ```
