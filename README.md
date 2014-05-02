@@ -32,6 +32,7 @@ Glyphs
 * Square
 * Ogone
 * VeriSign
+* Bitcoin (2 glyphs)
 
 Installation
 ------------

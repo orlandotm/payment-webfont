@@ -13,6 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'payment-webfont\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'pw-bitcoin': '&#xe614;',
+		'pw-bitcoin-sign': '&#xe615;',
+		'pw-diners': '&#xe609;',
 		'pw-mastercard': '&#xe602;',
 		'pw-trust-e': '&#xe612;',
 		'pw-amazon': '&#xe613;',
@@ -22,8 +25,8 @@
 		'pw-square': '&#xe60e;',
 		'pw-ogone': '&#xe60f;',
 		'pw-verisign': '&#xe60c;',
-		'pw-diners': '&#xe609;',
 		'pw-discover': '&#xe60a;',
+		'pw-logo': '&#xe619;',
 		'pw-american-express': '&#xe607;',
 		'pw-paypal': '&#xe604;',
 		'pw-maestro': '&#xe605;',
