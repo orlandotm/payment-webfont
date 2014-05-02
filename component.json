@@ -1,0 +1,23 @@
+{
+  "name": "payment-webfont",
+  "repo": "components/payment-webfont",
+  "version": "0.9.0",
+  "description": "An SVG webfont full of main payment system icons",
+  "keywords": [
+    "icon",
+    "font",
+    "component",
+    "svg",
+    "payment"
+  ],
+  "fonts": [
+    "fonts/payment-webfont.eot",
+    "fonts/payment-webfont.svg",
+    "fonts/payment-webfont.ttf",
+    "fonts/payment-webfont.woff"
+  ],
+  "styles": [
+    "style.css"
+  ]
+  "license": "CC0-1.0"
+}
