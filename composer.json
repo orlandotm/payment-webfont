@@ -12,7 +12,21 @@
   "authors": [
     {
       "name": "Orlando Merone",
-      "homepage": "http://www.orlandotm.com"
+      "email": "orlando.merone@gmail.com",
+      "homepage": "http://www.orlandotm.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Leo Di Donato",
+      "email": "leodidonato@gmail.com",
+      "homepage": "http://github.com/leodido",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Leonardo Grasso",
+      "email": "me@leonardograsso.com",
+      "homepage": "http://github.com/leogr",
+      "role": "Maintainer"
     }
   ],
   "license": [
