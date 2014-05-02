@@ -1,6 +1,6 @@
 {
   "name": "payment-webfont",
-  "repo": "components/payment-webfont",
+  "repo": "orlandotm/payment-webfont",
   "version": "0.9.0",
   "description": "An SVG webfont full of main payment system icons",
   "keywords": [
