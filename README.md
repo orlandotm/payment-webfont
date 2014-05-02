@@ -48,7 +48,7 @@ To install with composer add `orlandotm/payment-webfont` to your `composer.json`
 }
 ```
 
-## Using [Component](https://github.com/component/component)
+### Using [Component](https://github.com/component/component)
     
 To install as a component just run `component install orlandotm/payment-webfont`.
 
