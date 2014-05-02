@@ -11,27 +11,30 @@ All trademarks are the property of their respective owners; third-party brands, 
 Glyphs
 ------
 
-![Payment webfont glyphs](https://raw.githubusercontent.com/orlandotm/payment-webfont/master/preview.jpg "Payment webfont glyphs")
+![Payment webfont glyphs](preview.jpg "Payment webfont glyphs")
 
-* Mastercard
-* Maestro
-* Visa
-* Visa Electron
-* American Express
-* Postepay
-* Cartasì
-* Diners Club
-* Discover
-* Union Pay
-* Electronic Cash
-* TrustE
-* Amazon
-* JCB
-* Google Wallet
-* Stripe
-* Square
-* Ogone
-* VeriSign
+| Name             | Unicode    | CSS escape | Hex NCR     |
+| ---------------- | ---------- | ---------- | ----------- |
+| Amazon           | ``U+E613`` | ``\E613``  | ``&#xE613`` |
+| American Express | ``U+E607`` | ``\E607``  | ``&#xE607`` |
+| CartaSì          | ``U+E60B`` | ``\E60B``  | ``&#xE60B`` |
+| Diners Club      | ``U+E609`` | ``\E609``  | ``&#xE609`` |
+| Discover         | ``U+E60A`` | ``\E60A``  | ``&#xE60A`` |
+| Electronic Cash  | ``U+E600`` | ``\E600``  | ``&#xE600`` |
+| Google Wallet    | ``U+E611`` | ``\E611``  | ``&#xE611`` |
+| JCB              | ``U+E610`` | ``\E610``  | ``&#xE610`` |
+| Maestro          | ``U+E605`` | ``\E605``  | ``&#xE605`` |
+| Mastercard       | ``U+E602`` | ``\E602``  | ``&#xE602`` |
+| Ogone            | ``U+E60F`` | ``\E60F``  | ``&#xE60F`` |
+| Paypal           | ``U+E604`` | ``\E604``  | ``&#xE604`` |
+| Postepay         | ``U+E608`` | ``\E608``  | ``&#xE608`` |
+| Square           | ``U+E60E`` | ``\E60E``  | ``&#xE60E`` |
+| stripe           | ``U+E60D`` | ``\E60D``  | ``&#xE60D`` |
+| TRUSTe           | ``U+E612`` | ``\E612``  | ``&#xE612`` |
+| Union Pay        | ``U+E603`` | ``\E603``  | ``&#xE603`` |
+| VeriSign         | ``U+E60C`` | ``\E60C``  | ``&#xE60C`` |
+| Visa             | ``U+E601`` | ``\E601``  | ``&#xE601`` |
+| Visa Electron    | ``U+E606`` | ``\E606``  | ``&#xE606`` |
 
 Installation
 ------------
@@ -40,7 +43,7 @@ Installation
     
 To install with composer add `orlandotm/payment-webfont` to your `composer.json`. E.g.,
 
-```
+```json
 {
   "require": {
     "orlandotm/payment-webfont": "*"
