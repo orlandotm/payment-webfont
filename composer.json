@@ -1,0 +1,21 @@
+{
+  "name": "orlandotm/payment-webfont",
+  "description": "An SVG webfont full of main payment system icons",
+  "homepage": "https://github.com/orlandotm/payment-webfont",
+  "keywords": [
+    "font",
+    "payment",
+    "icon",
+    "webfont",
+    "svg"
+  ],
+  "authors": [
+    {
+      "name": "Orlando Merone",
+      "homepage": "http://www.orlandotm.com"
+    }
+  ],
+  "license": [
+    "CC0-1.0"
+  ]
+}
