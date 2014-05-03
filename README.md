@@ -33,6 +33,8 @@ Glyphs
 * Ogone
 * VeriSign
 * Bitcoin (2 glyphs)
+* Ripple
+* Sofortüberweisung
 
 Installation
 ------------
