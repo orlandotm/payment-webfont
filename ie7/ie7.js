@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'payment-webfont\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'pw-ripple': '&#xe616;',
+		'pw-sofort': '&#xe617;',
 		'pw-bitcoin': '&#xe614;',
 		'pw-bitcoin-sign': '&#xe615;',
 		'pw-diners': '&#xe609;',
