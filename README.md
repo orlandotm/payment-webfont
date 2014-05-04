@@ -11,7 +11,7 @@ All trademarks are the property of their respective owners; third-party brands, 
 Glyphs
 ------
 
-![Payment webfont glyphs](https://raw.githubusercontent.com/orlandotm/payment-webfont/master/preview.jpg "Payment webfont glyphs")
+![Payment webfont glyphs](preview.jpg "Payment webfont glyphs")
 
 * Mastercard
 * Maestro
