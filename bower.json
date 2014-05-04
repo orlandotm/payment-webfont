@@ -1,5 +1,5 @@
 {
-  "name": "payment-webfont",
+  "name": "orlandotm/payment-webfont",
   "description": "An SVG webfont full of main payment system icons",
   "version": "0.9.3",
   "main": "style.css",

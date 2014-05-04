@@ -39,9 +39,9 @@ Glyphs
 Installation
 ------------
 
-### Using [Composer](http://packagist.org/packages/orlandotm/payment-webfont)
+### Using [Composer](https://github.com/composer/composer)
     
-To install with composer add `orlandotm/payment-webfont` to your `composer.json`. E.g.,
+To install with [composer](http://packagist.org/packages/orlandotm/payment-webfont) add `orlandotm/payment-webfont` to your `composer.json`. E.g.,
 
 ```
 {
@@ -51,11 +51,17 @@ To install with composer add `orlandotm/payment-webfont` to your `composer.json`
 }
 ```
 
-### Using [Component](https://github.com/component/component)
+### Using [Component](http://component.io)
     
-To install as a component just run `component install orlandotm/payment-webfont`.
+To install as a [component](https://github.com/component/component) just run `component install orlandotm/payment-webfont`.
 
 Or add `orlandotm/payment-webfont` to the dependencies element into your `component.json`.
+
+### Using [Bower](http://bower.io)
+
+To install with [bower]() just run `bower install orlandotm/payment-webfont`.
+
+Or add `orlandotm/payment-webfont` to the dependencies element into you `bower.json`.
 
 ---
 
