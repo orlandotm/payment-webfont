@@ -35,6 +35,10 @@ Glyphs
 * Bitcoin (2 glyphs)
 * Ripple
 * Sofortüberweisung
+* Gittip
+* Flattr
+* Skrill Moneybookers
+* Cartes Bancaires CB
 
 Installation
 ------------
