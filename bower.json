@@ -1,7 +1,7 @@
 {
   "name": "orlandotm/payment-webfont",
   "description": "An SVG webfont full of main payment system icons",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "main": "style.css",
   "repository": {
     "type": "git",
