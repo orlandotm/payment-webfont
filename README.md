@@ -63,9 +63,9 @@ Or add `orlandotm/payment-webfont` to the dependencies element into your `compon
 
 ### Using [Bower](http://bower.io)
 
-To install with [bower]() just run `bower install orlandotm/payment-webfont`.
+To install with [bower]() just run `bower install payment-webfont`.
 
-Or add `orlandotm/payment-webfont` to the dependencies element into you `bower.json`.
+Or add `payment-webfont` to the dependencies element into you `bower.json`.
 
 ---
 
