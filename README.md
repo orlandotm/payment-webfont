@@ -39,6 +39,12 @@ Glyphs
 * Flattr
 * Skrill Moneybookers
 * Cartes Bancaires CB
+* Western Union
+* Clickandbuy
+* Paypal (2 glyphs - old and new logo)
+* iDeal
+* Paysafecard
+* Braintree
 
 Installation
 ------------

@@ -13,6 +13,12 @@
 		el.innerHTML = '<span style="font-family: \'payment-webfont\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'pw-clickandbuy': '&#xe61d;',
+		'pw-westernunion': '&#xe61e;',
+		'pw-braintree': '&#xe61f;',
+		'pw-paysafecard': '&#xe620;',
+		'pw-ideal': '&#xe621;',
+		'pw-paypal-new': '&#xe622;',
 		'pw-skrill': '&#xe61b;',
 		'pw-cb': '&#xe61c;',
 		'pw-gittip': '&#xe618;',
@@ -32,7 +38,6 @@
 		'pw-ogone': '&#xe60f;',
 		'pw-verisign': '&#xe60c;',
 		'pw-discover': '&#xe60a;',
-		'pw-logo': '&#xe619;',
 		'pw-american-express': '&#xe607;',
 		'pw-paypal': '&#xe604;',
 		'pw-maestro': '&#xe605;',
