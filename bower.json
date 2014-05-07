@@ -1,24 +1,31 @@
 {
-  "name": "orlandotm/payment-webfont",
-  "description": "An SVG webfont full of main payment system icons",
+  "name": "payment-webfont",
   "version": "0.9.4",
+  "homepage": "https://github.com/orlandotm/payment-webfont",
+  "authors": [
+    { "name": "Orlando TM Merone", "email": "orlando.merone@gmail.com", "homepage": "http://www.orlandotm.com" },
+    { "name": "Leo Di Donato", "email": "leodidonato@gmail.com", "homepage": "http://github.com/leodido" },
+    { "name": "Leonardo Grasso", "email": "me@leonardograsso.com", "homepage": "http://github.com/leogr" } ],
+  "description": "An SVG webfont full of main payment system icons",
   "main": "style.css",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/orlandotm/payment-webfont.git"
-  },
+  "moduleType": [
+    "globals"
+  ],
   "keywords": [
     "font",
     "payment",
     "icon",
     "webfont",
-    "svg"
+    "svg",
+    "css",
+    "vector"
   ],
-  "authors": [
-    { "name": "Orlando TM Merone", "email": "orlando.merone@gmail.com", "homepage": "http://www.orlandotm.com" },
-    { "name": "Leo Di Donato", "email": "leodidonato@gmail.com", "homepage": "http://github.com/leodido" },
-    { "name": "Leonardo Grasso", "email": "me@leonardograsso.com", "homepage": "http://github.com/leogr" }
-  ]
   "license": "CC0-1.0",
-  "homepage": "https://github.com/orlandotm/payment-webfont"
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
