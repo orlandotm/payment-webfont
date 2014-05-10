@@ -13,7 +13,7 @@
 .pw-ideal {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe621;');
 }
-.pw-paypal-new {
+.pw-paypal {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe622;');
 }
 .pw-skrill {
@@ -76,7 +76,7 @@
 .pw-american-express {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe607;');
 }
-.pw-paypal {
+.pw-paypal--classic {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe604;');
 }
 .pw-maestro {

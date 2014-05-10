@@ -39,7 +39,7 @@
 .pw-ideal:before {
 	content: "\e621";
 }
-.pw-paypal-new:before {
+.pw-paypal:before {
 	content: "\e622";
 }
 .pw-skrill:before {
@@ -102,7 +102,7 @@
 .pw-american-express:before {
 	content: "\e607";
 }
-.pw-paypal:before {
+.pw-paypal--classic:before {
 	content: "\e604";
 }
 .pw-maestro:before {
