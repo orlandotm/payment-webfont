@@ -1,17 +1,21 @@
-Payment webfont icons
+DEMO
 =====================
 
-An SVG webfont full of icons of main payment systems created by [@orlandotm](http://twitter.com/orlandotm) with [Icomoon](http://icomoon.io).
+To get started, checkout [http://www.orlandotm.com/payment-webfont/] (http://www.orlandotm.com/payment-webfont/)!
+
+Payment webfont icons
+----------
+
+An SVG webfont full of icons of main payment systems. Designed and built in Italy with [Icomoon](http://icomoon.io) by [@orlandotm](http://twitter.com/orlandotm) with help from the [contributors](https://github.com/orlandotm/payment-webfont/graphs/contributors). 
+If you'd like to see added some other logos, [open an issue](https://github.com/orlandotm/payment-webfont/issues/new) on Github.
 
 Disclaimer
 ----------
 
 All trademarks are the property of their respective owners; third-party brands, product names, trade names, corporate names and companies mentioned herein may be the trademarks of their respective owners or registered trademarks of other companies and have been used for purposes of explanation and to the owner's benefit, without implying a violation of copyright law.
 
-Glyphs
+Glyphs available
 ------
-
-![Payment webfont glyphs](preview.jpg "Payment webfont glyphs")
 
 * Mastercard
 * Maestro
