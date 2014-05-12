@@ -1,13 +1,13 @@
-DEMO
-=====================
-
-To get started, checkout [http://www.orlandotm.com/payment-webfont/] (http://www.orlandotm.com/payment-webfont/)!
-
 Payment webfont icons
-----------
+=====================
 
 An SVG webfont full of icons of main payment systems. Designed and built in Italy with [Icomoon](http://icomoon.io) by [@orlandotm](http://twitter.com/orlandotm) with help from the [contributors](https://github.com/orlandotm/payment-webfont/graphs/contributors). 
 If you'd like to see added some other logos, [open an issue](https://github.com/orlandotm/payment-webfont/issues/new) on Github.
+
+**Webfont use cases:**
+* [Solo.sh](http://solo.sh)
+
+Want to suggest your website? [open an issue](https://github.com/orlandotm/payment-webfont/issues/new) on Github.
 
 Disclaimer
 ----------
