@@ -126,3 +126,6 @@
 .pw-ec:before {
 	content: "\e600";
 }
+.pw-bancontact:before {
+	content: "\e622";
+}

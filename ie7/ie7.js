@@ -47,6 +47,7 @@
 		'pw-cartasi': '&#xe60b;',
 		'pw-unionpay': '&#xe603;',
 		'pw-ec': '&#xe600;',
+		'pw-bancontact': '&#xe622;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
