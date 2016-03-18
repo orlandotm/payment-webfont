@@ -100,3 +100,6 @@
 .pw-ec {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
 }
+.pw-bancontact {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe622;');
+}

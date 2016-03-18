@@ -52,6 +52,7 @@ Glyphs available
 * iDeal
 * Paysafecard
 * Braintree
+* Bacontact / Mr Cash
 
 Installation
 ------------
