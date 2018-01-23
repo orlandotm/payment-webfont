@@ -1,0 +1,29 @@
+{
+  "name": "payment-webfont",
+  "version": "0.9.5",
+  "description": "An SVG webfont full of main payment system icons",
+  "homepage": "https://github.com/orlandotm/payment-webfont",
+  "repository": "https://github.com/orlandotm/payment-webfont.git",
+  "author": "Orlando TM Merone <orlando.merone@gmail.com>",
+  "contributors": [
+    "Leo Di Donato <leodidonato@gmail.com> (http://github.com/leodido)",
+    "Leonardo Grasso <me@leonardograsso.com> (http://github.com/leogr)"
+  ],
+  "main": "style.css",
+  "files": [
+    "style.css",
+    "fonts/",
+    "ie7/"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "font",
+    "payment",
+    "icon",
+    "webfont",
+    "svg",
+    "css",
+    "vector"
+  ],
+  "private": false
+}
